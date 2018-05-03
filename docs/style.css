@@ -39,7 +39,7 @@ h1{
     width: 100px;
 }
 @media(max-width:600px){
-    #contenedor{
+    #Ordenar{
         margin: 0 auto;
         display: inline-block;
     }
