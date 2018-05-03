@@ -38,3 +38,9 @@ h1{
     height: 100px;
     width: 100px;
 }
+@media(max-width:600px){
+    #contenedor{
+        margin: 0 auto;
+        display: inline-block;
+    }
+}
