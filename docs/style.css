@@ -22,3 +22,19 @@ background-color:green
 h1{
     text-align: center;
 }
+#Ordenar{
+    display: flex;
+    justify-content: space-around;
+}
+#x{
+    font-size:20px;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+#o{
+    font-size:20px;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
